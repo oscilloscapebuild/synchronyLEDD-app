@@ -1,2 +1,2 @@
-# synchronyLEDD-app
+# synchronyLEDs-app
 repo for synchrony led app
